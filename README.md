@@ -215,18 +215,18 @@ The second table is "Card Router".
 ```
 {
   "name": {
-        "first": "David",
-        "last": "Cohen",
+        "first": "Israel",
+        "last": "Israeli",
   },
   "phone":"0501234567",
-  "email":"david@david.com",
+  "email":"Israel@Israeli.com",
   "password":"123456",
   isBusiness:true,
   address:{
-        "country": "London",
-        "city": "Manchester",
-        "street": "The Hero",
-        "houseNumber": "15",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "street": "Here",
+        "houseNumber": "2",
   }
 }
 ```
@@ -364,13 +364,13 @@ The second table is "Card Router".
     "subtitle":"Card Subtitle",
     "description":"Card Description",
     "phone":"0501234567",
-    "email":"CardEmail@CardEmail.com",
+    "email":"Card@CardEmail.com",
     "web":"http://business.web",
     "address":{
-        "country": "London",
-        "city": "Manchester",
-        "street": "The Hero",
-        "houseNumber": "15",
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "street": "Here",
+        "houseNumber": "2",
   }
 }
 ```
@@ -394,4 +394,4 @@ Static file are located in the "public" folder, and are served if no previous ro
 11. "morgan": logging requests to the console.
 12. "lodash": for easy functionality.
 
-### Have Fun !
+### Enjoy! :)
