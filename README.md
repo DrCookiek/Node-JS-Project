@@ -2,8 +2,7 @@
 
 ## Description
 
-In one sentence - this is a cards management server.
-In this server you can create users of different types (regular user, business user and admin user) and manage cards.
+This is a server built with node.js. for managing business cards. It includes various user and card management features like logging in and registering users.
 
 ## Install
 
