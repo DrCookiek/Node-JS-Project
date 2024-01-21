@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a server built with node.js. for managing business cards. It includes various user and card management features like logging in and registering users.
+This is a server built with node.js. For managing business cards. It includes various user and card management features like logging in and registering users.
 
 ## Install
 
